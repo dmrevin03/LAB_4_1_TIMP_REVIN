@@ -1,9 +1,9 @@
 /**
 * @file modAlphaCipher.h
-* @author Губин А.А.
+* @author Ревин Д.К.
 * @version 1.0
 * @brief Описание класса modAlphaCipher
-* @date 05.11.2022
+* @date 22.01.2023
 * @copyright ИБСТ ПГУ
 */
 #pragma once
